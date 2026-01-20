@@ -406,7 +406,13 @@
 -r:"Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/CFXR.WelcomeScreen.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/CFXRDemo.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/CFXREditor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/CFXRRuntime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/KinoBloom.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/PsdPlugin.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Demo.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Aseprite.Common.ref.dll"
@@ -461,7 +467,13 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Script/BackGround.cs"
+"Assets/Script/Bullet.cs"
+"Assets/Script/Enemy.cs"
+"Assets/Script/Launcher.cs"
 "Assets/Script/Player.cs"
+"Assets/Script/SingletonTest.cs"
+"Assets/Script/SoundManager.cs"
+"Assets/Script/SpawnManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+

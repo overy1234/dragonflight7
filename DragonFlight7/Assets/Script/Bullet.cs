@@ -37,6 +37,11 @@ public class Bullet : MonoBehaviour
 
             //싱글톤 함수 호출
             SoundManager.instance.SoundDie();
+
+            //점수
+            GameManager.Instance.AddScore(100);
+
+
             //적충돌
             //적삭제
             Destroy(collision.gameObject);

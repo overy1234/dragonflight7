@@ -469,6 +469,7 @@
 "Assets/Script/BackGround.cs"
 "Assets/Script/Bullet.cs"
 "Assets/Script/Enemy.cs"
+"Assets/Script/GameManager.cs"
 "Assets/Script/Launcher.cs"
 "Assets/Script/Player.cs"
 "Assets/Script/SingletonTest.cs"
